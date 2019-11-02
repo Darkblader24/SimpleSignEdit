@@ -1,0 +1,10 @@
+name: SimpleSignEdit
+version: 1.7.0
+authors: [Darkblader24]
+
+main: net.darkblader24.simplesignedit.SimpleSignEdit
+
+commands:
+  signedit:
+    description: Edit a sign
+    aliases: [simplesignedit, se, sse]

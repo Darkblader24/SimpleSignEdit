@@ -1,0 +1,6 @@
+# SneakEdit toogles if signs can be edited by right clicking while sneaking.
+# Below that you can translate/edit all ingame messages.
+sneakEdit: true
+no_sign: "&c[SimpleSignEdit] Please look at a sign."
+no_permission: "&c[SimpleSignEdit] You are not allowed to do that!"
+successful_reload: "&c[SimpleSignEdit] &aConfiguration reloaded!"
